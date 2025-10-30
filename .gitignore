@@ -1,6 +1,7 @@
 # Ambiente virtual
 venv/
 .env
+.env.*
 
 # Cache e metadados do Python
 __pycache__/
@@ -14,7 +15,8 @@ __pycache__/
 # Configurações do VS Code
 .vscode/
 
-# Dados temporários (Removi *.csv daqui)
+# Dados temporários e gerados
+*.csv
 *.xlsx
 *.json
 *.tmp

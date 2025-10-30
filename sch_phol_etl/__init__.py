@@ -1,1 +1,1 @@
-BASE_URL = "https://api.schiphol.nl/public-flights/"
+BASE_URL = "https://api.schiphol.nl/public-flights"

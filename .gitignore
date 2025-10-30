@@ -1,0 +1,24 @@
+# Ambiente virtual
+venv/
+.env
+
+# Cache e metadados do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# Configurações do VS Code
+.vscode/
+
+# Dados temporários (Removi *.csv daqui)
+*.xlsx
+*.json
+*.tmp
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db

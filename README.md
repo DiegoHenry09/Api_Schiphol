@@ -1,7 +1,10 @@
 # ✈️ Projeto API Schiphol - ETL com Python
 
 Este projeto realiza um processo **ETL (Extração, Transformação e Carga)** utilizando dados da **API do Aeroporto de Schiphol (Amsterdã)**.  
-O objetivo é extrair informações de voos, tratar os dados e armazená-los de forma estruturada para análises posteriores.
+utilizando Python para consumir os endpoints e tratar as informações de voos.
+O objetivo é demonstrar uma pipeline de dados real, com integração de APIs, manipulação com Pandas e testes de requisição via Postman.
+
+
 
 ---
 
